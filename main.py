@@ -12,5 +12,16 @@ def compress_numbers(mass):
 
 if __name__ ==  '__main__':
     arr = array.array('i', [42])
+    
     print(compress_numbers(arr))
+    print(compress_numbers(arr))
+
+    print(compress_numbers(arr))
+
+    print(compress_numbers(arr))
+
+    print(compress_numbers(arr))
+
+    print(compress_numbers(arr))
+
     
